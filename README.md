@@ -15,8 +15,8 @@ This is a React-based assignment project demonstrating a responsive UI with tab 
 
 A short demo video is attached in the assignment submission for quick reference.
 
-- **Live Preview:** [Netlify Link](https://harsh-tabs-assignment.netlify.app)
-- **Source Code:** [GitHub Repository](https://github.com/Harshtomar821/assignment-tabs)
+- **Live Preview:** [Netlify Link](https://addimago.netlify.app/)
+- **Source Code:** [GitHub Repository] "https://github.com/Harshtomar821/AddImage"
 
 ## Technologies Used
 
@@ -32,5 +32,5 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshtomar821/assignment-tabs.git
+   git clone "https://github.com/Harshtomar821/AddImage"
    ```
